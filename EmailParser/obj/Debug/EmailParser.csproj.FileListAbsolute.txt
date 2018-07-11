@@ -1,0 +1,9 @@
+c:\users\amruta.mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\bin\Debug\EmailParser.exe.config
+c:\users\amruta.mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\bin\Debug\EmailParser.exe
+c:\users\amruta.mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\bin\Debug\EmailParser.pdb
+c:\users\amruta.mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\bin\Debug\EAGetMail45.dll
+c:\users\amruta.mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\obj\Debug\EmailParser.exe
+c:\users\amruta.mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\obj\Debug\EmailParser.pdb
+C:\Users\Amruta.Mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\obj\Debug\EmailParser.csprojResolveAssemblyReference.cache
+C:\Users\Amruta.Mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\bin\Debug\Resources\testemail2.txt
+C:\Users\Amruta.Mogilineedi\onedrive - shell\documents\visual studio 2015\Projects\EmailParser\EmailParser\bin\Debug\Resources\testemail1.txt
